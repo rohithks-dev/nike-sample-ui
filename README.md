@@ -1,8 +1,5 @@
-# React + Vite
+# Sample Nike UI
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a simple UI with no backend functionality.
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+<img width="1512" alt="Screenshot 2025-02-22 at 7 15 45 PM" src="https://github.com/user-attachments/assets/bc8acac8-3d2b-419e-bf02-795dca9db925" />
