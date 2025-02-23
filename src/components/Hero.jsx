@@ -15,13 +15,13 @@ const Content = () => {
                 <div className="hero-social">
                     <p>Also Available on</p>
                     <div className="social-icons">
-                        <img src = "/images/amazon.png" alt = "Amazon" />
-                        <img src = "/images/flipkart.png" alt = "Flipkart" />
+                        <img src = "./images/amazon.png" alt = "Amazon" />
+                        <img src = "./images/flipkart.png" alt = "Flipkart" />
                     </div>
                 </div>
             </div>  
             <div className="hero-image">
-                <img src = "/images/shoe_image.png" alt = "Shoe" />
+                <img src = "./images/shoe_image.png" alt = "Shoe" />
              </div>
         </main>
     );

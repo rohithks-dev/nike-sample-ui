@@ -2,7 +2,7 @@ const Navigation = () => {
     return (
         <nav className="container">
         <div className="logo">
-          <img src = "/images/nike_brand_logo.png" alt = "Nike Logo" />
+          <img src = "./images/nike_brand_logo.png" alt = "Nike Logo" />
         </div>
 
         <ul>
